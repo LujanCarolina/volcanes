@@ -6,8 +6,6 @@ Se puede ver el cráter activo en territorio Argentina, y sus alturas con respec
 
 clonando el repositorio y se trabaja con Git Bash y VS Code.
 
-`$ git clone url`
-
 ## Cómo se usa
 
 Puede ser util para ver los volcanes y ayudar en proyectos de creacion de otros mapas, el codigo es muy simple. 
@@ -18,8 +16,8 @@ El proyecto es open source.
 
 ### volcanes.sh 
 
-Es el trabajo se pueden ver la imagen Volcanes_Riesgo.png
+El Proyecto se pueden ver la imagen Volcanes_Riesgo.png
 
 ### volcanesA.sh
 
-Es el mapa deltro del anterior la imagen es Volcanes_Activos.png
+El mapa deltro del proyecto devolcanes.sh, la imagen es Volcanes_Activos.png
